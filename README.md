@@ -13,4 +13,7 @@ sudo bettercap
 # Available Devices
 ```
 net.probe on
+
+net.show
+
 ```
