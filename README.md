@@ -20,7 +20,7 @@ net.show
 
 # Sniff 
 ```
-set arp.spoof.targets 192.168.0.162
+set arp.spoof.targets 192.168.0.ip
 
 arp.spoof on
 
