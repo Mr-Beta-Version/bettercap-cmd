@@ -27,3 +27,9 @@ arp.spoof on
 net.sniff on
 
 ```
+
+# DNS Spoof
+```
+set dns.spoof.domains facebook.com
+dns.spoof on
+```
