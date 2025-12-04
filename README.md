@@ -9,3 +9,8 @@ sudo apt install bettercap
 ```
 sudo bettercap
 ```
+
+# Available Devices
+```
+net.probe on
+```
